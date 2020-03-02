@@ -1,2 +1,13 @@
-# lk_tech_project
-微服务,注册中心,服务间调用应用
+### 1.SpringBoot+SpringCloud
+
+- 服务发现——Netflix Eureka
+
+- 服务调用——Netflix Feign
+- 熔断器——Netflix Hystrix
+- 服务网关——Netflix Zuul
+
+
+### 2.Redis
+
+### 3.RabbitMQ
+
