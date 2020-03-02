@@ -1,0 +1,6 @@
+server:
+  port: 1237
+
+spring:
+  application:
+    name: nathan_sms
