@@ -29,6 +29,7 @@ public class UserController {
 
     @RequestMapping(value = "/code",method = RequestMethod.GET)
     public Result sendTelephoneCode(String mobile){
+
         userService.sendTelephoneCode(mobile);
         return new Result(true,StatusCode.OK,"发送成功");
     }
