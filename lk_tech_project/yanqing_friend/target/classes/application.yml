@@ -23,6 +23,11 @@ spring:
       charset: UTF-8
       force: true
       enabled: true
+  mail:
+    host: smtp.qq.com
+    username: 631813042@qq.com
+    password: yoarbnlkwkaebfag
+    default-encoding: UTF-8
 
 #MyBatis配置
 mybatis:

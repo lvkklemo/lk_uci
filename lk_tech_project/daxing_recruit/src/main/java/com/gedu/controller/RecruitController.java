@@ -2,6 +2,7 @@ package com.gedu.controller;
 import com.gedu.client.UserClient;
 import com.gedu.domain.Recruit;
 import com.gedu.service.RecruitService;
+import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
@@ -26,6 +27,10 @@ public class RecruitController {
 
     @RequestMapping(value = "/findByState",method = RequestMethod.GET)
     public Result findTop1ByStateOrderByCreatetimeDesc(String state){
+
+        if (StringUtils.isEmpty(state)){
+            return new Result(false,StatusCode.ERROR,"请确认参数");
+        }
         Recruit recruitList = recruitService.findTop1ByStateOrderByCreatetimeDesc(state);
         return new Result(true, StatusCode.OK,"查询成功",recruitList);
     }
