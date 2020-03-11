@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3c02e0d-c558-4cd2-97b4-38b5b2fff3b1" name="Default Changelist" comment="read">
-      <change afterPath="$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/impl/UserClientImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanqing_friend/src/main/java/com/gedu/service/MailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanqing_friend/src/main/java/com/gedu/timer/TimerTestTsak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/UserClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/UserClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/controller/RecruitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/controller/RecruitController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daxing_recruit/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/daxing_recruit/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daxing_recruit/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/daxing_recruit/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/haiidan_user/src/main/java/com/gedu/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/haiidan_user/src/main/java/com/gedu/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanqing_friend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yanqing_friend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanqing_friend/src/main/java/com/gedu/FriendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/yanqing_friend/src/main/java/com/gedu/FriendApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanqing_friend/src/main/java/com/gedu/controller/FriendController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yanqing_friend/src/main/java/com/gedu/controller/FriendController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanqing_friend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yanqing_friend/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanqing_friend/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yanqing_friend/target/classes/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="f3c02e0d-c558-4cd2-97b4-38b5b2fff3b1" name="Default Changelist" comment="readme文件" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/fengtai_eureka/target/" />
@@ -51,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/UserClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            <state relative-caret-position="323">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/impl/UserClientImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="107">
+              <caret line="7" selection-start-line="7" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#231#232#0" expanded="true" />
@@ -100,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="234">
+              <caret line="34" selection-start-line="34" selection-end-line="36" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -121,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haiidan_user/src/main/java/com/gedu/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="181">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -214,10 +198,10 @@
         <option value="$PROJECT_DIR$/yanqing_friend/src/main/java/com/gedu/timer/TimerTestTsak.java" />
         <option value="$PROJECT_DIR$/yanqing_friend/src/main/java/com/gedu/FriendApplication.java" />
         <option value="$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/controller/RecruitController.java" />
-        <option value="$PROJECT_DIR$/haiidan_user/src/main/java/com/gedu/controller/UserController.java" />
         <option value="$PROJECT_DIR$/daxing_recruit/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/impl/UserClientImpl.java" />
         <option value="$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/impl/UserClientImpl.java" />
+        <option value="$PROJECT_DIR$/haiidan_user/src/main/java/com/gedu/controller/UserController.java" />
       </list>
     </option>
   </component>
@@ -245,8 +229,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
-    <option name="y" value="44" />
+    <option name="x" value="24" />
+    <option name="y" value="47" />
     <option name="width" value="1595" />
     <option name="height" value="882" />
   </component>
@@ -317,6 +301,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gedu" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lk_tech_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lk_tech_project" type="462c0819:PsiDirectoryNode" />
+              <item name="daxing_recruit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gedu" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -336,6 +331,51 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lk_tech_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lk_tech_project" type="462c0819:PsiDirectoryNode" />
+              <item name="haiidan_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lk_tech_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lk_tech_project" type="462c0819:PsiDirectoryNode" />
+              <item name="haiidan_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lk_tech_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lk_tech_project" type="462c0819:PsiDirectoryNode" />
+              <item name="haiidan_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lk_tech_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lk_tech_project" type="462c0819:PsiDirectoryNode" />
+              <item name="haiidan_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lk_tech_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lk_tech_project" type="462c0819:PsiDirectoryNode" />
+              <item name="haiidan_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lk_tech_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lk_tech_project" type="462c0819:PsiDirectoryNode" />
+              <item name="haiidan_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gedu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -493,7 +533,7 @@
       <workItem from="1583372865911" duration="4263000" />
       <workItem from="1583563618034" duration="2342000" />
       <workItem from="1583584502105" duration="6000" />
-      <workItem from="1583921045450" duration="1001000" />
+      <workItem from="1583921045450" duration="2273000" />
     </task>
     <task id="LOCAL-00001" summary="微服务测试">
       <created>1583155456877</created>
@@ -516,17 +556,24 @@
       <option name="project" value="LOCAL" />
       <updated>1583156024242</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="recruit模块调用user微服务熔断器">
+      <created>1583922255692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583922255692</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35308000" />
+    <option name="totallyTimeSpent" value="36580000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="44" width="1595" height="882" extended-state="0" />
+    <frame x="24" y="47" width="1595" height="882" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2916935" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2916935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -536,7 +583,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49967805" visible="true" weight="0.44810125" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967805" weight="0.44810125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -568,7 +615,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="微服务测试" />
     <MESSAGE value="read" />
-    <option name="LAST_COMMIT_MESSAGE" value="read" />
+    <MESSAGE value="recruit模块调用user微服务熔断器" />
+    <option name="LAST_COMMIT_MESSAGE" value="recruit模块调用user微服务熔断器" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/domain/User.java" />
@@ -890,37 +938,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/haiidan_user/src/main/java/com/gedu/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/impl/UserClientImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/controller/RecruitController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
@@ -941,10 +958,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/haiidan_user/src/main/java/com/gedu/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="34" selection-start-line="34" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/impl/UserClientImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="7" selection-start-line="7" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/daxing_recruit/src/main/java/com/gedu/client/UserClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
